@@ -1,0 +1,50 @@
+.building-container {
+  position: relative;
+  width: 100%;
+  height: 500px;
+  overflow: hidden;
+  margin-bottom: 15px;
+}
+
+.building {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top; 
+}
+
+.overlay-text {
+  position: absolute;
+  bottom: 20px;           /* текст снизу */
+  left: 50%;              /* центр по горизонтали */
+  transform: translateX(-50%);
+  max-width: 40%;         /* текст не выйдет за 40% ширины */
+  text-align: left;
+  font-size: 20px;        /* увеличенный размер текста */
+  color: white;           /* белый текст */
+  line-height: 1.5;
+  display: flex;
+  flex-direction: column;
+}
+
+.overlay-text h1 {
+  font-size: 28px;        /* заголовок побольше */
+  margin-bottom: 10px;
+}
+
+.overlay-text ul {
+  list-style: none;       /* убираем стандартные буллеты */
+  padding-left: 0;
+  margin: 0;
+}
+
+.overlay-text li {
+  margin-bottom: 6px;
+  font-size: 18px;        /* увеличиваем текст списка */
+}
+
+.overlay-text p {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 10px;
+}

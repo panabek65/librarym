@@ -1,0 +1,224 @@
+.no-scroll {
+  overflow: hidden;
+}
+
+.book-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 15px;
+  width: 230px;
+  text-align: center;
+  height: 450px;
+  background-color: #fff;
+  transition: transform 0.2s ease;
+}
+
+.book-card:hover {
+  transform: translateY(-5px);
+}
+
+.book-card img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.25);
+}
+
+.book-card h3 {
+  font-size: 18px;
+  margin: 8px 0;
+  text-align: left;
+  max-height: 50px;
+  overflow: hidden;
+}
+
+.book-card p {
+  font-size: 14px;
+  color: grey;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.card-book-info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.card-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: auto;
+}
+
+.save-card-button,
+.reserve-card-button {
+  padding: 6px 15px;
+  border-radius: 6px;
+  font-size: 15px;
+  border: none;
+  cursor: pointer;
+  transition: opacity 0.2s ease;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.25);
+}
+
+.save-card-button {
+  background-color: #5676e7;
+  color: white;
+}
+
+.reserve-card-button {
+  background-color: #dd9c3b;
+  color: white;
+}
+
+.reserve-card-button:disabled {
+  background-color: rgb(110, 105, 129);
+  cursor: not-allowed;
+}
+
+.card-buttons button:hover {
+  opacity: 0.9;
+}
+
+.modal {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.modal-content {
+  background: white;
+  border-radius: 10px;
+  padding: 40px;
+  max-width: 90%;
+  width: 700px;
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+}
+
+.modal-content img {
+  width: 300px;
+  height: 450px;
+  object-fit: cover;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+}
+
+.modal-text {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  line-height: 1.5;
+}
+
+.modal-text h2 {
+  margin: 0;
+  font-size: 24px;
+}
+
+.modal-text p {
+  margin: 0;
+  font-size: 16px;
+}
+
+.modal-text button {
+  align-self: flex-start;
+  padding: 8px 16px;
+  border: none;
+  background-color: #e75656;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 15px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+  align-self: center;
+}
+
+.modal-text button:hover {
+  opacity: 0.8;
+}
+
+.footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #ffffff;
+  color: grey;
+  margin-top: 40px;
+}
+
+.slideshow-container {
+  position: relative;
+  max-width: 800px;
+  margin: 40px auto;
+  overflow: hidden;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+.mySlide {
+  display: none;
+  opacity: 0;
+  transition: opacity 0.8s ease;
+}
+
+.mySlide.active {
+  display: block;
+  opacity: 1;
+}
+
+.mySlide img {
+  width: 100%;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.text {
+  position: absolute;
+  bottom: 10px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 10px;
+  font-size: 1.2rem;
+  border-radius: 0 0 10px 10px;
+}
+
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  padding: 12px;
+  color: white;
+  font-weight: bold;
+  font-size: 22px;
+  background: rgba(0, 0, 0, 0.4);
+  border: none;
+  border-radius: 50%;
+  transform: translateY(-50%);
+  transition: background 0.2s;
+  z-index: 10;
+}
+
+.prev:hover,
+.next:hover {
+  background: rgba(0, 0, 0, 0.7);
+}
+
+.prev {
+  left: 10px;
+}
+
+.next {
+  right: 10px;
+}

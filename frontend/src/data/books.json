@@ -1,0 +1,202 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "year": 1960,
+    "image": "https://m.media-amazon.com/images/I/81aY1lxk+9L._SL1500_.jpg",
+    "available": true,
+    "description": "A timeless exploration of morality, justice, and human nature. Through the eyes of Scout Finch, the novel delves into prejudice, courage, and compassion in a racially divided Southern town. It is a story about empathy, standing up for what is right, and understanding the complexities of human behavior and society."
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949,
+    "image": "https://m.media-amazon.com/images/I/81+8cdyQiML._SL1500_.jpg",
+    "available": true,
+    "description": "A chilling depiction of a totalitarian society dominated by surveillance and propaganda. Winston Smith struggles against oppression and the erasure of truth. Orwell’s vision warns of the dangers of authoritarianism, manipulation of facts, and the suppression of individuality, freedom, and critical thought in a controlled society."
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "year": 1997,
+    "image": "https://m.media-amazon.com/images/I/81iqZ2HHD-L.jpg",
+    "available": true,
+    "description": "The magical beginning of Harry Potter’s journey at Hogwarts School. Friendship, bravery, and discovery unfold as Harry encounters spells, magical creatures, and mysteries. The story captures the excitement of a hidden magical world while facing challenges and uncovering his unique destiny amidst dark forces and secrets."
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": 1925,
+    "image": "https://m.media-amazon.com/images/I/71FTb9X6wsL.jpg",
+    "available": true,
+    "description": "A vivid portrayal of the Jazz Age, wealth, and longing. Jay Gatsby’s pursuit of love and the American Dream unfolds with glamour, illusion, and tragedy. Fitzgerald explores ambition, desire, and the emptiness behind opulent parties, revealing the disillusionment and moral decay hidden beneath the glittering surface of 1920s society."
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "year": 1954,
+    "image": "https://m.media-amazon.com/images/I/91dSMhdIzTL.jpg",
+    "available": true,
+    "description": "An epic tale of friendship, courage, and the fight between good and evil. Frodo Baggins embarks on a perilous journey to destroy a powerful ring, facing mythical creatures, treacherous landscapes, and the corrupting influence of power. Tolkien’s world-building captures the depth, complexity, and heroism of Middle-earth in this timeless saga."
+  },
+  {
+    "title": "City of Ghosts",
+    "author": "Victoria Schwab",
+    "year": 2018,
+    "image": "https://m.media-amazon.com/images/I/715aoqRV+qL._SL1500_.jpg",
+    "available": true,
+    "description": "A thrilling supernatural adventure following Cassidy as she navigates the world of spirits. Haunted by restless ghosts and guided by courage and curiosity, Cassidy uncovers secrets, danger, and the line between the living and the dead. Schwab’s atmospheric storytelling weaves mystery, suspense, and the emotional journey of a young protagonist confronting the unseen."
+  },
+  {
+    "title": "Surfacing",
+    "author": "Margaret Atwood",
+    "year": 1972,
+    "image": "https://m.media-amazon.com/images/I/71gdgO-lWeL._SL1500_.jpg",
+    "available": false,
+    "description": "A haunting exploration of identity, memory, and isolation. Atwood’s protagonist journeys into the wilderness to reconnect with her past and unravel personal and familial truths. The novel examines psychological tension, human relationships, and existential reflection, blending introspection with the physical and emotional landscapes that shape the self and perception of reality."
+  },
+  {
+    "title": "The Shadowed Sun",
+    "author": "N.K. Jemisin",
+    "year": 2021,
+    "image": "https://m.media-amazon.com/images/I/91IVSqHIaoL._SL1500_.jpg",
+    "available": true,
+    "description": "A richly layered fantasy of gods, power, and human resilience. Characters navigate treachery, loyalty, and moral ambiguity as Jemisin weaves intricate world-building and intense emotion. The narrative explores the consequences of choices, social hierarchies, and survival in a complex universe where light and darkness, hope and despair, are constantly intertwined."
+  },
+  {
+    "title": "On The Genealogy of Morals: A Polemic",
+    "author": "Friedrich Nietzche",
+    "year": 1887,
+    "image": "https://m.media-amazon.com/images/I/71ATEK9VOfL._SL1499_.jpg",
+    "available": false,
+    "description": "Nietzsche examines the origins, development, and implications of morality and ethical values. Through critical analysis, he questions traditional notions of good and evil, the formation of conscience, and societal influence. The work challenges readers to reconsider inherited moral structures, emphasizing the philosophical tension between human instincts, culture, and ethical thought."
+  },
+  {
+    "title": "Capital",
+    "author": "Karl Marx",
+    "year": 1867,
+    "image": "https://m.media-amazon.com/images/I/71BD1XywD4L._SL1280_.jpg",
+    "available": true,
+    "description": "A foundational exploration of political economy, labor, and capitalism. Marx analyzes production, class struggle, and societal structures, unveiling the mechanisms that perpetuate inequality and exploitation. His insights examine economic systems, labor relations, and social dynamics, providing a theoretical framework for understanding power, wealth distribution, and historical materialism in human societies."
+  },
+  {
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "year": 2020,
+    "image": "https://m.media-amazon.com/images/I/812whWLbqAL._SL1500_.jpg",
+    "available": true,
+    "description": "A reflective tale of choices, regrets, and infinite possibilities. Nora Seed discovers a library between life and death, exploring alternate realities shaped by her decisions. Haig’s story emphasizes self-discovery, resilience, and acceptance, encouraging readers to consider the value of life, personal fulfillment, and the paths not taken in shaping identity and happiness."
+  },
+  {
+    "title": "The Night Circus",
+    "author": "Erin Morgenstern",
+    "year": 2011,
+    "image": "https://m.media-amazon.com/images/I/81dAQFi5HzL._SL1500_.jpg",
+    "available": false,
+    "description": "A magical, mysterious tale of a traveling circus that only appears at night. Morgenstern’s narrative weaves enchantment, competition, and romance as performers with extraordinary talents navigate a high-stakes rivalry. The story explores destiny, choice, and wonder, creating a rich, immersive world where imagination, artistry, and suspense are intertwined in a captivating experience."
+  },
+  {
+    "title": "The Prince",
+    "author": "Niccolò Machiavelli",
+    "year": 1532,
+    "image": "https://m.media-amazon.com/images/I/613IIHCzXeL._SL1500_.jpg",
+    "available": true,
+    "description": "A seminal treatise on political power, strategy, and governance. Machiavelli provides insights on leadership, diplomacy, and human nature, emphasizing pragmatism over morality. The work explores the acquisition, maintenance, and exercise of authority, revealing lessons on manipulation, strategy, and the complex interplay between ethics and political necessity in ruling and influencing societies."
+  },
+  {
+    "title": "Klara and the Sun",
+    "author": "Kazuo Ishiguro",
+    "year": 2021,
+    "image": "https://m.media-amazon.com/images/I/71w6CaOT+cL._SL1500_.jpg",
+    "available": false,
+    "description": "A thought-provoking exploration of artificial intelligence, consciousness, and human emotion. Klara, an AI companion, observes the world and the people she serves, reflecting on love, hope, and mortality. Ishiguro examines human relationships, the essence of empathy, and the blurred lines between synthetic life and genuine emotional experience in a delicate, poignant narrative."
+  },
+  {
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "year": 1945,
+    "image": "https://m.media-amazon.com/images/I/71ut9GR9pkL._SL1500_.jpg",
+    "available": true,
+    "description": "A satirical allegory of power, politics, and corruption. Orwell uses a farm of talking animals to illustrate the rise of totalitarian regimes, propaganda, and social inequality. The story explores the consequences of ambition, manipulation, and betrayal, highlighting the cyclical nature of power, the susceptibility of societies to control, and the fragility of freedom and justice."
+  },
+  {
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "year": 2018,
+    "image": "https://m.media-amazon.com/images/I/91AnXd9k-jL._SL1500_.jpg",
+    "available": true,
+    "description": "A retelling of Greek mythology centered on Circe, the powerful sorceress. Miller explores themes of identity, transformation, and empowerment as Circe confronts gods, mortals, and her own destiny. The narrative blends magic, adventure, and introspection, emphasizing resilience, individuality, and the cost of choices in shaping the life and legacy of a complex, mythic character."
+  },
+  {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "year": 2008,
+    "image": "https://m.media-amazon.com/images/I/61JfGcL2ljL.jpg",
+    "available": true,
+    "description": "A gripping dystopian story of survival, rebellion, and societal oppression. Katniss Everdeen volunteers for the Hunger Games, confronting brutal challenges and political intrigue. Collins explores courage, sacrifice, and humanity amidst a controlled society, highlighting the tension between personal desire and collective resistance while reflecting on power, inequality, and moral choices in extreme circumstances."
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "year": 1988,
+    "image": "https://m.media-amazon.com/images/I/71aFt4+OTOL.jpg",
+    "available": true,
+    "description": "A philosophical journey of self-discovery and destiny. Santiago pursues his personal legend, encountering wisdom, obstacles, and the mysteries of the universe. Coelho explores themes of purpose, perseverance, and spiritual awakening, emphasizing the importance of listening to one’s heart, embracing change, and understanding the interconnectedness of life while following one’s dreams."
+  },
+  {
+    "title": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "year": 2017,
+    "image": "https://m.media-amazon.com/images/I/71sIVAqjlfL._SL1500_.jpg",
+    "available": true,
+    "description": "A captivating tale of fame, love, and hidden truths. Evelyn Hugo recounts her life story, exploring ambition, passion, and the sacrifices behind a glamorous public image. Reid delves into the complexities of relationships, identity, and personal choices, highlighting the tension between authenticity and perception while revealing the depth of human emotion and resilience over decades."
+  },
+  {
+    "title": "Attack on Titan Omnibus 3",
+    "author": "Hajime Isayama",
+    "year": 2022,
+    "image": "https://m.media-amazon.com/images/I/81G5OKNLmmL._SL1500_.jpg",
+    "available": true,
+    "description": "An intense manga saga of survival, war, and humanity facing monstrous Titans. The story follows characters’ struggles, alliances, and moral dilemmas in a dystopian world. Isayama explores courage, sacrifice, and resilience, highlighting the tension between fear and hope while reflecting on the complexity of society, identity, and the will to fight against overwhelming odds."
+  },
+  {
+    "title": "Beneath the Surface",
+    "author": "Kaia Kanda",
+    "year": 2020,
+    "image": "https://m.media-amazon.com/images/I/81Nt7oULIbL._SL1500_.jpg",
+    "available": true,
+    "description": "A gripping mystery blending suspense, psychology, and personal discovery. Characters confront secrets, deception, and hidden motives as the plot unfolds. Kanda explores human behavior, trust, and courage, crafting tension and intrigue while revealing the impact of choices, the complexity of relationships, and the drive to uncover truth beneath appearances and outward calm."
+  },
+  {
+    "title": "Enchantment of Ravens",
+    "author": "Margaret Rogerson",
+    "year": 2017,
+    "image": "https://m.media-amazon.com/images/I/81VacthcUHL._SL1500_.jpg",
+    "available": true,
+    "description": "A magical fantasy of art, love, and danger. A talented artist becomes entangled with a faerie prince, navigating beauty, power, and unforeseen peril. Rogerson weaves enchantment, romance, and adventure, exploring choices, trust, and personal growth. The narrative immerses readers in a rich world where creativity, emotion, and the supernatural intersect with suspense and wonder."
+  },
+  {
+    "title": "The Idiot",
+    "author": "F. Dostoyevsy",
+    "year": 2022,
+    "image": "https://m.media-amazon.com/images/I/71qnRiJ+i8L._SL1499_.jpg",
+    "available": false,
+    "description": "A profound exploration of innocence, morality, and human complexity. Dostoyevsky’s narrative follows a kind-hearted protagonist navigating a world filled with manipulation, desire, and societal pressure. Themes of compassion, ethics, and the conflict between purity and corruption are explored, highlighting the challenges of maintaining integrity and goodness amidst the chaos of human nature and relationships."
+  },
+  {
+    "title": "Fathers and Sons",
+    "author": "Ivan Turgenev",
+    "year": 1965,
+    "image": "https://m.media-amazon.com/images/I/81YCpCfH73L._SL1500_.jpg",
+    "available": true,
+    "description": "A classic exploration of generational conflict, ideology, and societal change. Turgenev examines the tensions between conservative traditions and emerging nihilist beliefs. The narrative delves into family dynamics, friendship, and philosophical debates, reflecting on the challenges of reconciling past and present while exploring themes of duty, morality, and the evolving nature of human thought and social values."
+  },
+  {
+    "title": "The Song of Achilles",
+    "author": "Madeline Miller",
+    "year": 2011,
+    "image": "https://m.media-amazon.com/images/I/81msb6gUBTL._SL1500_.jpg",
+    "available": true,
+    "description": "A retelling of the Iliad focusing on the bond between Achilles and Patroclus. Miller explores love, heroism, and the human consequences of war. Themes of loyalty, fate, and sacrifice are central, while rich characterization and poetic storytelling reveal the emotional depth and tragic beauty of mythological events through personal perspective and intimate narrative voice."
+  }
+]

@@ -1,0 +1,86 @@
+.banner h1 {
+  text-align: center;
+  padding: 30px;
+  font-size: 30px;
+}
+
+.carousel {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 60px 0;
+  overflow: hidden;
+  background: #e2e6e8;
+}
+
+.carousel-track {
+  display: flex;
+  justify-content: center; /* центрирует центральный слайд */
+  align-items: center;
+  gap: 20px;               /* расстояние между слайдами */
+  position: relative;
+  width: 100%;
+  height: 380px;
+}
+
+.slide {
+  position: absolute;
+  top: 0;
+  transition: all 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* .without-text {
+  display: ;
+} */
+
+.slide-text {
+  margin-right: 20px;
+  max-width: 200px;
+  font-size: 20px;
+  color: #474747;
+  text-align: right;
+}
+
+.slide img {
+  width: 220px;
+  height: 320px;
+  object-fit: cover;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.25);
+}
+
+.slide-info {
+  text-align: center;
+  margin-top: 10px;
+  color: #333;
+  font-family: system-ui, sans-serif;
+}
+
+.nav {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  font-size: 48px;
+  color: #333;
+  cursor: pointer;
+  z-index: 10;
+  transition: color 0.2s;
+}
+
+.nav:hover {
+  color: #1e6de3;
+}
+
+.nav.left {
+  left: 80px;
+}
+
+.nav.right {
+  right: 80px;
+}
+
